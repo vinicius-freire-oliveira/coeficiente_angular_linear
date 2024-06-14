@@ -1,0 +1,1 @@
+# coeficiente_angular_linear
